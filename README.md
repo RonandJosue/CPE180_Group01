@@ -169,8 +169,8 @@ The application will open in your browser where you can interact with ChefBot.
 
 ---
 
-## Hugging Face Link
+## Hugging Face
 
-```
+Link:
 https://mycocacc4th-chefbot.hf.space/
-```
+
