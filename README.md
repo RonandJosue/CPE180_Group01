@@ -169,6 +169,8 @@ The application will open in your browser where you can interact with ChefBot.
 
 ---
 
-## License
+## Hugging Face Link
 
-This project was developed for academic purposes as part of the course **Cloud AI and MLOps with Huawei Cloud ModelArts, MindSpore, and DevOps**.
+```
+https://mycocacc4th-chefbot.hf.space/
+```
