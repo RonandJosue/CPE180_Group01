@@ -1,0 +1,7 @@
+streamlit
+openai
+chromadb
+pandas
+ollama
+chromadb
+tqdm
